@@ -1,0 +1,15 @@
+:root {
+    --text-color: #333368;
+}
+
+* {
+    box-sizing: 0;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    color: #d3d3d3;
+}
